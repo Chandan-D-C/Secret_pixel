@@ -83,8 +83,8 @@ Image-Steganography/
 ---
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
-![Image Steganography video - frame at 0m12s](https://github.com/user-attachments/assets/4947e9e7-8d94-4bab-9731-28e5a61c1d75)
 
+<img width="1436" height="899" alt="Screenshot 2026-03-22 205445" src="https://github.com/user-attachments/assets/7ef599cb-3e6b-4e08-ba4e-0057c6cc0f14" />
 
 The project includes an interactive web dashboard that enables users to:
 
